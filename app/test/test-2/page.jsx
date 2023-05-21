@@ -1,8 +1,11 @@
 import React from 'react'
+import Head from 'next/head'
 
 const Test2 = () => {
   return (
-    <div>Test2 Route</div>
+    <div>
+      <div>Test2 Route</div>
+    </div>
   )
 }
 

@@ -10,6 +10,9 @@ export default function Home() {
       <Link href={'/test/test-2'}>TEST2</Link>
       <br/>
       <br/>
+      <Link href={'/test/error'}>ERROR</Link>
+      <br/>
+      <br/>
     </div>
   )
 }
